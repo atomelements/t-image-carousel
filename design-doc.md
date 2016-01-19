@@ -51,3 +51,4 @@ The image carousel is a simple element used for sliding a series of images. It m
 * [Designing Effective Carousels: Create a Fanciful Amusement, Not a House of Horrors](http://www.nngroup.com/articles/designing-effective-carousels/)
 * [Don’t Use Automatic Image Sliders or Carousels, Ignore the Fad](http://conversionxl.com/dont-use-automatic-image-sliders-or-carousels-ignore-the-fad/)
 * [8 UX Requirements for Designing a User-Friendly Homepage Carousel](http://baymard.com/blog/homepage-carousel)
+* [Mobile Gestures: 40% of Sites Don't Support Pinch or Tap Gestures for Product Images](http://baymard.com/blog/mobile-image-gestures)
